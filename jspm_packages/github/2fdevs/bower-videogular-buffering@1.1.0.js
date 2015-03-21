@@ -1,0 +1,1 @@
+module.exports = require("github:2fdevs/bower-videogular-buffering@1.1.0/vg-buffering");

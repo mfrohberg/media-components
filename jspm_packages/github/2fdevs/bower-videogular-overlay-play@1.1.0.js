@@ -1,0 +1,1 @@
+module.exports = require("github:2fdevs/bower-videogular-overlay-play@1.1.0/vg-overlay-play");

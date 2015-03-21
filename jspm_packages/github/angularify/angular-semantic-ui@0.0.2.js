@@ -1,0 +1,1 @@
+module.exports = require("github:angularify/angular-semantic-ui@0.0.2/dist/angular-semantic-ui");
